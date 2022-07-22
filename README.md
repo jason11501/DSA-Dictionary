@@ -23,7 +23,7 @@ Ngoài ra, code còn sử dụng thêm một số kiến thức của OOP: <br>
 * C++
 
 ## Quick start
-Các bạn có thể clone repo này về. Open .xcodeproj và run ngay bằng câu lệnh dưới đây:
+Các bạn có thể clone repo này về. Open .xcodeproj, edit file path and run ngay bằng câu lệnh dưới đây:
 ```
 ⌘ + R
 ```
