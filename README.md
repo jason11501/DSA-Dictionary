@@ -1,5 +1,6 @@
 # Data structure- Cấu trúc dữ liệu và giải thuật -lab08
 # Ứng dụng Dictionary với Array, Tree, Hash Table
+# Tiến độ 90%
 Gồm những tính năng (features): <br>
 * Read file
 * Insert
