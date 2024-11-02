@@ -1,5 +1,8 @@
 # Data structure- Cấu trúc dữ liệu và giải thuật -lab08
-# Ứng dụng Dictionary với Array, Tree, Hash Table
+# Ứng dụng Dictionary 
+
+Array, Tree, Hash Table
+
 # Tiến độ 90%
 Gồm những tính năng (features): <br>
 * Read file
@@ -7,6 +10,8 @@ Gồm những tính năng (features): <br>
 * Edit
 * Delete
 * Write file
+* Search
+* Sort
 
 Ngoài ra, code còn sử dụng thêm một số kiến thức của Kĩ thuật lập trình: <br>
 * Con trỏ (pointer), khai báo con trỏ
